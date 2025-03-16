@@ -34,6 +34,16 @@ cd Prodigy-Infotech-Internship-Tasks
 pip install -r requirements.txt
 ```
 
+
+
+
+
+
+
+
+
+
+
 ## ⚠️ Ethical Notice
 All tools are provided **for educational purposes only**. Particularly note:
 - Keylogger requires explicit user consent

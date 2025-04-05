@@ -1,8 +1,6 @@
-# Prodigy Infotech Internship Tasks
+# Some cool  Tasks
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-
-A collection of security-related projects completed during the Prodigy Infotech internship program.
 
 ## 📚 Tasks Overview
 

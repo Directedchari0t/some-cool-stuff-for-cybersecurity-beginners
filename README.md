@@ -23,7 +23,7 @@
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/Prodigy-Infotech-Internship-Tasks.git
+git clone https://github.com/yourusername/some-cool-stuff.git
 cd Prodigy-Infotech-Internship-Tasks
 ```
 
